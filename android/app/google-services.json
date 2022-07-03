@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204831222731",
+    "project_id": "flash-chat-6ccea",
+    "storage_bucket": "flash-chat-6ccea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204831222731:android:5173505bbca739ef80244e",
+        "android_client_info": {
+          "package_name": "com.makaju.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204831222731-ikjveuikpd33t9qkos38j1dvf615uo1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe48j00a8WqJ695mU7A25pcJepkKN4PeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204831222731-ikjveuikpd33t9qkos38j1dvf615uo1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
